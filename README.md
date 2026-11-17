@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yoann 👋
 
-<!--
-**yoannklt/yoannklt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Science student at Université Claude Bernard Lyon 1,
+specializing in Application Development.
 
-Here are some ideas to get you started:
+I'm interested in software development, backend development and databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working with
+
+- Python
+- SQL
+- FastAPI
+- React / Next.js
+- Git
+- PHP
+
+### Projects
+
+- [Portfolio](...)
+- [GameTracker](...)
+
+### Contact
+
+- Portfolio
+- LinkedIn
+- Email
