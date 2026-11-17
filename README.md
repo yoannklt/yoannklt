@@ -21,6 +21,5 @@ I'm interested in software development, backend development and databases.
 
 ### Contact
 
-- Portfolio
-- LinkedIn
-- Email
+- LinkedIn: @yoannkerlogot
+- Email: yoann.kerlogot@etu.univ-lyon1.fr
